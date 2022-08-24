@@ -1,4 +1,4 @@
-# autorestart-nodemon-on-crash
+# 自動重啟-nodemon-on-crash
 
 這個項目是為了在崩潰的情況下自動重啟nodemon。
 
@@ -12,7 +12,7 @@
 
 )
 
-# 使用說明：
+# Instructions for use:
 
 編輯 config.json 文件，如示例中所示：
 
@@ -23,6 +23,6 @@
 }
 ```
 
-將 start.js 和 config.json 文件複製到您的項目文件夾並啟動它，使用：
+Copy the start.js and config.json files to your project folder and to start it use:
 
     node start.js
