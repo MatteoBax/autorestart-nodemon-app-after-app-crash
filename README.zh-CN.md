@@ -14,7 +14,7 @@
 
 # 使用说明：
 
-Edit the config.json file as in the example:
+编辑 config.json 文件，如示例中所示：
 
 ```json
 {
