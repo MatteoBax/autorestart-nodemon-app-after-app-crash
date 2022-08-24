@@ -1,6 +1,6 @@
-# autorestart-nodemon-in caso di arresto anomalo
+# autorestart-nodemon-on-crash
 
-Questo progetto prevede il riavvio automatico di nodemon in caso di arresto anomalo.
+Questo progetto consiste nel riavvio automatico di nodemon in caso di crash.
 
 # Requisiti
 
