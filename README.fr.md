@@ -1,10 +1,10 @@
 # autorestart-nodemon-on-crash
 
-Ce projet consiste à redémarrer nodemon automatiquement en cas de plantage.
+This project is to restart nodemon automatically in case of a crash.
 
 # Conditions
 
-•Node.js
+• Node.js
 
 • Nodemon (installable avec :
 
@@ -23,6 +23,6 @@ Modifiez le fichier config.json comme dans l'exemple :
 }
 ```
 
-Copy the start.js and config.json files to your project folder and to start it use:
+Copiez les fichiers start.js et config.json dans votre dossier de projet et pour le démarrer, utilisez :
 
     node start.js
