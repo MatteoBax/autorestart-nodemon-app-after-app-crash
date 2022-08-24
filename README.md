@@ -19,4 +19,7 @@ Edit the config.json file as in the example:
     "pathToWatch":"/sdcard/bot"
 }
 ```
-Copy the start.js and config.json files to your project folder and to start it use node start.js
+Copy the start.js and config.json files to your project folder and to start it use:
+```
+node start.js
+```
