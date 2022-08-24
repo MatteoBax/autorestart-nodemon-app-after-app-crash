@@ -14,7 +14,7 @@ Ce projet consiste à redémarrer nodemon automatiquement en cas de plantage.
 
 # Mode d'emploi:
 
-Edit the config.json file as in the example:
+Modifiez le fichier config.json comme dans l'exemple :
 
 ```json
 {
