@@ -1,6 +1,6 @@
-# autorestart-nodemon-in caso di arresto anomalo
+# autorestart-nodemon-on-crash
 
-Questo progetto prevede il riavvio automatico di nodemon in caso di arresto anomalo.
+Questo progetto consiste nel riavvio automatico di nodemon in caso di arresto anomalo.
 
 # Requisiti
 
@@ -23,6 +23,6 @@ Modifica il file config.json come nell'esempio:
 }
 ```
 
-Copy the start.js and config.json files to your project folder and to start it use:
+Copia i file start.js e config.json nella cartella del progetto e per avviarlo usa:
 
     node start.js
