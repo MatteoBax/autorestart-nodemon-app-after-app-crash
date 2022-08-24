@@ -14,7 +14,7 @@
 
 # उपयोग के लिए निर्देश:
 
-config.json फ़ाइल को उदाहरण के अनुसार संपादित करें:
+Edit the config.json file as in the example:
 
 ```json
 {
@@ -23,6 +23,6 @@ config.json फ़ाइल को उदाहरण के अनुसार 
 }
 ```
 
-Copy the start.js and config.json files to your project folder and to start it use:
+start.js और config.json फ़ाइलों को अपने प्रोजेक्ट फ़ोल्डर में कॉपी करें और इसे शुरू करने के लिए उपयोग करें:
 
     node start.js
