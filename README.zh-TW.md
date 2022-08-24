@@ -1,4 +1,4 @@
-# 自動重啟-nodemon-on-crash
+# autorestart-nodemon-on-crash
 
 這個項目是為了在崩潰的情況下自動重啟nodemon。
 
