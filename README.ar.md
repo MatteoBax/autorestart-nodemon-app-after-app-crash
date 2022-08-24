@@ -14,7 +14,7 @@
 
 # تعليمات الاستخدام:
 
-قم بتحرير ملف config.json كما في المثال:
+Edit the config.json file as in the example:
 
 ```json
 {
