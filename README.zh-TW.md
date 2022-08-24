@@ -12,7 +12,7 @@
 
 )
 
-# Instructions for use:
+# 使用說明：
 
 編輯 config.json 文件，如示例中所示：
 
@@ -23,6 +23,6 @@
 }
 ```
 
-Copy the start.js and config.json files to your project folder and to start it use:
+將 start.js 和 config.json 文件複製到您的項目文件夾並啟動它，使用：
 
     node start.js
