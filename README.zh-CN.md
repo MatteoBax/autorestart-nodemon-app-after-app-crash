@@ -1,12 +1,12 @@
 # 自动重启-nodemon-on-crash
 
-这个项目是为了在崩溃的情况下自动重启nodemon。
+This project is to restart nodemon automatically in case of a crash.
 
 # 要求
 
 •Node.js
 
-•Nodemon（可安装：
+•Nodemon (installable with:
 
     npm i -g nodemon
 
@@ -23,6 +23,6 @@
 }
 ```
 
-Copy the start.js and config.json files to your project folder and to start it use:
+将 start.js 和 config.json 文件复制到您的项目文件夹并启动它，使用：
 
     node start.js
