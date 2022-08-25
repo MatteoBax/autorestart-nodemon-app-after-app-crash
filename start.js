@@ -20,7 +20,5 @@ app.on('message', function (event) {
   if (event.type === 'start') {
   } else if (event.type === 'crash') {
     app.send('restart');
-  }else if (event.type === 'exit') {
-    app.send('quit');
   }
 });
