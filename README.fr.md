@@ -1,6 +1,6 @@
 # autorestart-nodemon-on-crash
 
-This project is to restart nodemon automatically in case of a crash.
+Ce projet consiste à redémarrer nodemon automatiquement en cas de plantage.
 
 # Conditions
 
