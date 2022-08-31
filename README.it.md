@@ -1,4 +1,4 @@
-# autorestart-nodemon-on-crash
+# autorestart nodemon app after app crash
 
 Questo progetto consiste nel riavvio automatico di nodemon in caso di crash.
 
