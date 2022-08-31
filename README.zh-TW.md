@@ -1,4 +1,4 @@
-# autorestart nodemon app after app crash
+# 應用程序崩潰後自動重啟 nodemon 應用程序
 
 這個項目是為了在崩潰的情況下自動重啟nodemon。
 
@@ -6,7 +6,7 @@
 
 •Node.js
 
-•Nodemon (installable with:
+•Nodemon（可安裝：
 
     npm i -g nodemon
 
