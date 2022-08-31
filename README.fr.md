@@ -6,7 +6,7 @@ Ce projet consiste à redémarrer nodemon automatiquement en cas de plantage.
 
 • Node.js
 
-•Nodemon (installable with:
+• Nodemon (installable avec :
 
     npm i -g nodemon
 
@@ -23,6 +23,6 @@ Modifiez le fichier config.json comme dans l'exemple :
 }
 ```
 
-Copy the start.js and config.json files to your project folder and to start it use:
+Copiez les fichiers start.js et config.json dans votre dossier de projet et pour le démarrer, utilisez :
 
     node start.js
