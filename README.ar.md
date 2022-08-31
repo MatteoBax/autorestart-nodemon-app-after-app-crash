@@ -1,4 +1,4 @@
-# برنامج autorestart-nodemon-on-كراش
+# تطبيق nodemon autorestart بعد تعطل التطبيق
 
 هذا المشروع هو إعادة تشغيل nodemon تلقائيًا في حالة حدوث عطل.
 
@@ -14,7 +14,7 @@
 
 # تعليمات الاستخدام:
 
-Edit the config.json file as in the example:
+قم بتحرير ملف config.json كما في المثال:
 
 ```json
 {
