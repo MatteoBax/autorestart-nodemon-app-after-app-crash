@@ -1,6 +1,6 @@
 # ऐप क्रैश के बाद ऑटोरेस्टार्ट नोडमॉन ऐप
 
-This project is to restart nodemon automatically in case of a crash.
+यह परियोजना दुर्घटना की स्थिति में स्वचालित रूप से नोडमॉन को पुनः आरंभ करने के लिए है।
 
 # आवश्यकताएं
 
@@ -12,7 +12,7 @@ This project is to restart nodemon automatically in case of a crash.
 
 )
 
-# Instructions for use:
+# उपयोग के लिए निर्देश:
 
 config.json फ़ाइल को उदाहरण के अनुसार संपादित करें:
 
@@ -23,6 +23,6 @@ config.json फ़ाइल को उदाहरण के अनुसार 
 }
 ```
 
-Copy the start.js and config.json files to your project folder and to start it use:
+start.js और config.json फ़ाइलों को अपने प्रोजेक्ट फ़ोल्डर में कॉपी करें और इसे शुरू करने के लिए उपयोग करें:
 
     node start.js
