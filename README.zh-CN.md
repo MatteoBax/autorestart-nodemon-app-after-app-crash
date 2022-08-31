@@ -1,4 +1,4 @@
-# 自动重启-nodemon-on-crash
+# 应用程序崩溃后自动重启 nodemon 应用程序
 
 这个项目是为了在崩溃的情况下自动重启nodemon。
 
