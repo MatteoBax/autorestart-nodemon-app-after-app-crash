@@ -4,7 +4,7 @@ Ce projet consiste à redémarrer nodemon automatiquement en cas de plantage.
 
 # Exigences
 
-• Node.js
+•Node.js
 
 • Nodemon (installable avec :
 
