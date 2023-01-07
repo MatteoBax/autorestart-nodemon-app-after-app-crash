@@ -2,7 +2,7 @@
 
 這個項目是在崩潰的情況下自動重啟 nodemon。
 
-# Requirements
+# 要求
 
 •Node.js
 
