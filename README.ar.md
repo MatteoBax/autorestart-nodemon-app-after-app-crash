@@ -1,6 +1,6 @@
 # تطبيق nodemon autorestart بعد تعطل التطبيق
 
-هذا المشروع هو إعادة تشغيل nodemon تلقائيًا في حالة حدوث عطل.
+This project is to restart nodemon automatically in case of a crash.
 
 # متطلبات
 
@@ -23,6 +23,6 @@
 }
 ```
 
-انسخ ملفي start.js و config.json إلى مجلد مشروعك ولبدأ تشغيله ، استخدم:
+انسخ ملفات start.js و config.json إلى مجلد مشروعك ولبدأ تشغيله ، استخدم:
 
     node start.js
