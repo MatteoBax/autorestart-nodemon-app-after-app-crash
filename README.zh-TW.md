@@ -23,6 +23,6 @@
 }
 ```
 
-將 start.js 和 config.json 文件複製到您的項目文件夾並啟動它：
+Copy the start.js and config.json files to your project folder and to start it use:
 
     node start.js
