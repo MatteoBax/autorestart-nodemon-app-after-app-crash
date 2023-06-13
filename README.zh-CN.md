@@ -1,4 +1,4 @@
-# autorestart nodemon app after app crash
+# 应用程序崩溃后自动重启 nodemon 应用程序
 
 这个项目是在崩溃的情况下自动重启 nodemon。
 
@@ -14,7 +14,7 @@
 
 # 使用说明：
 
-如示例所示编辑 config.json 文件：
+Edit the config.json file as in the example:
 
 ```json
 {
