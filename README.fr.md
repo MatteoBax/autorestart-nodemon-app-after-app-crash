@@ -1,10 +1,10 @@
-# autorestart nodemon app after app crash
+# redémarrage automatique de l'application nodemon après le crash de l'application
 
-Ce projet consiste à redémarrer nodemon automatiquement en cas de plantage.
+This project is to restart nodemon automatically in case of a crash.
 
 # Exigences
 
-• Node.js
+•Node.js
 
 • Nodemon (installable avec :
 
