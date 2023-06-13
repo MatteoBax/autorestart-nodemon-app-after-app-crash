@@ -23,6 +23,6 @@
 }
 ```
 
-start.js और config.json फ़ाइलों को अपने प्रोजेक्ट फ़ोल्डर में कॉपी करें और इसे शुरू करने के लिए उपयोग करें:
+Copy the start.js and config.json files to your project folder and to start it use:
 
     node start.js
